@@ -1,0 +1,14 @@
+{
+  "name": "part2-building-a-web-server",
+  "version": "1.0.0",
+  "description": "A simple node application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Craig Asher",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
